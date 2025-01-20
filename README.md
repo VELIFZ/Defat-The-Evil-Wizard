@@ -1,0 +1,1 @@
+A simple text-based combat game where you can choose between four different character classes to battle an Evil Wizard, by taking turns to attack. Each character has unique two abilities top of basic attack method that you can use to defeat your opponent. The goal is to defeat the Evil Wizard before your character's health reaches zero.
